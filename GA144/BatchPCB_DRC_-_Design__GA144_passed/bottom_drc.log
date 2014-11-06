@@ -1,0 +1,25 @@
+unmatched 274X paramblock OFA0B0 - len 6
+Macro Name = OC8
+Macro Consuming 5,1,8,0,0,1.08239X$1,22.5 [0]
+PUSH 1.000000
+PUSH 8.000000
+PUSH 0.000000
+PUSH 0.000000
+PUSH 1.082390
+FETCH 1
+MUL
+PUSH 22.500000
+PRIM 5
+Parse_OK
+Beginning GCODE run
+Ending GCODE run
+Created 3345 polygons
+Found 0 errors
+Partitioning....
+Grouping...
+Distance testing
+MergeCount: 3279
+tests: 832816
+Board boundaries: Rect: [0.002700,0.002600] -> [2.778800,2.853500], w: 2.776100, h: 2.850900
+Found 66 groups
+lengthdb size 0
